@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AF9432</color>
+    <color name="colorPrimaryDark">#9f862d</color>
+    <color name="colorAccent">#AF9432</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!--<color name="select_item_color">#ceb03e</color>-->
+    <color name="select_item_color">#AF9432</color>
+    <color name="transparent_color">#80000000</color>
+    <color name="dark_gry">#aaaaaa</color>
+    <color name="dimgray">#696969</color>
+    <color name="light_gry">#E6E6E6</color>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="red">#ff0000</color>
+    <color name="gry">#cac6c6</color>
+    <color name="order_status">#00C48F</color>
+    <color name="tab_border">#453703</color>
+    <color name="yellow">#ffff00</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931487820888",
+    "firebase_url": "https://lenzzo.firebaseio.com",
+    "project_id": "lenzzo",
+    "storage_bucket": "lenzzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931487820888:android:582b412f6bdbf172356e2d",
+        "android_client_info": {
+          "package_name": "com.lenzzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931487820888-ud41hgvju16786mf2ahdkn7pi1pqik3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lenzzo",
+            "certificate_hash": "4dce73c1797e4aa5c232e0336208a7521d22b359"
+          }
+        },
+        {
+          "client_id": "931487820888-b1pfkoh2q299jura9hn54k0defq88tru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEDpPQSJ-4dzpxTNGrTakrgkp052J9sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931487820888-b1pfkoh2q299jura9hn54k0defq88tru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931487820888-0cjuf1kl151ebiqbnpqpvc8ljd6sp8b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Lenzzo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
